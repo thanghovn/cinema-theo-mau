@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Chay Login",
+            "request": "launch",
+            "mainClass": "quanlyrapphim.Login",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
